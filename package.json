@@ -1,0 +1,27 @@
+{
+  "name": "haoBlog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtian9527/haoBlog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jtian9527/haoBlog/issues"
+  },
+  "homepage": "https://github.com/jtian9527/haoBlog#readme",
+  "devDependencies": {
+    "vuepress": "^1.9.8"
+  }
+}
